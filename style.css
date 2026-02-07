@@ -259,7 +259,7 @@ footer { background: #f9f9f9; padding: 60px 0 20px; text-align: center; }
 }
 
 .cta-final-equal {
-    background-image: url('images/Estética-Avançada.jpg');
+    background-image: url('Estética-Avançada.jpg');
     background-size: cover;
     background-position: center right;
     background-repeat: no-repeat;
@@ -763,4 +763,5 @@ footer { background: #f9f9f9; padding: 60px 0 20px; text-align: center; }
     .flex-topo { flex-direction: column; }
     .footer-redes { margin-top: 20px; }
     .grid-footer { grid-template-columns: 1fr; } /* No celular fica uma embaixo da outra */
+
 }
